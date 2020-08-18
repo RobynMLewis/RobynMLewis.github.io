@@ -1,10 +1,14 @@
 ---
 layout: page
-  toc: true
-  fig_asp: 1/2
 title: About
 permalink: /about/
+toc: true
+toc_float: true
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.asp=1/2)
+```
 
 Some information about me!
 
