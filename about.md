@@ -2,21 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-toc: true
-toc_float: true
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(fig.asp=1/2)
-```
 
 Some information about me!
 
 ### Education
 
-I went to UNC Asheville for undergrad where I majored in both Physics and Math. I was president of the Society of Physics Students, where I helped to design and implement a program to introduce visiting middle schoolers to physics (and gave us an excuse to play with liquid nitrogen). I also headed the laser lab, where I ran an experiment that attempted to synthesize graphene via laser ablation, and worked as a peer tutor in the Physics lab. 
-
-![Working in the Lab](C:/Users/robyn/Pictures/LaserLab.png)
+I went to [UNC Asheville](unca.edu) for undergrad where I majored in both Physics and Math. I was president of the Society of Physics Students, where I helped to design and implement a program to introduce visiting middle schoolers to physics (and gave us an excuse to play with liquid nitrogen). I also headed the laser lab, where I ran an experiment that attempted to synthesize graphene via laser ablation, and worked as a peer tutor in the Physics lab.  
 
 ### Work History
 
@@ -24,9 +16,7 @@ I worked in the service industry while in school in Asheville, waiting tables an
 
 ### Personal
 
-I keep busy with my two cats, Hubble and Stella, along with a porch full of plants. I love to cook and get outside every chance I get. Learning to play the guitar while we're in quarantine, but I'm really glad I live by myself because I'm not very good (yet). 
-
-![Cats love sleeping on my homework](C:/Users/robyn/Pictures/Cats.png)
+I keep busy with my two cats, Hubble and Stella, along with a porch full of plants. I love to cook and get outside every chance I get. Learning to play the guitar while we're in quarantine, but I'm really glad I live by myself because I'm not very good (yet).  
 
 ### Contact me
 
