@@ -1,17 +1,21 @@
 ---
 layout: page
 title: About
-permalink: /about/
-fig_caption: true
+permalink: /about/:
+  fig_caption: true
+  fig_width: 1
+  toc: true
+  toc_depth: 3
+  toc_float: true
 ---
-
 Some information about me!
 
 ### Education
 
 I went to [UNC Asheville](unca.edu) for undergrad where I majored in both Physics and Math. I was president of the Society of Physics Students, where I helped to design and implement a program to introduce visiting middle schoolers to physics (and gave us an excuse to play with liquid nitrogen). I also headed the laser lab, where I ran an experiment that attempted to synthesize graphene via laser ablation, and worked as a peer tutor in the Physics lab.  
 
-<img src="images/LaserLab.png" width="250">
+![In the Lab](images/LaserLab.png)  
+*In the Lab*
 
 ### Work History
 
@@ -21,7 +25,8 @@ I worked in the service industry while in school in Asheville, waiting tables an
 
 I keep busy with my two cats, Hubble and Stella, along with a porch full of plants. I love to cook and get outside every chance I get. Learning to play the guitar while we're in quarantine, but I'm really glad I live by myself because I'm not very good (yet).  
 
-<img src="images/Cats.png" width="250">
+![Sleeping on homework](images/Cats.png)
+*Sleeping on homework*
 
 ### Contact me
 
